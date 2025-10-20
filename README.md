@@ -87,8 +87,8 @@ El video de sustentación muestra:
 - Visualización de registros.
 
 **Enlaces:**
-- Video: [https://youtu.be/ScI6viNm5wc]  
-- Informe: [Informe.md]
+- Video: [Video en Youtube](https://youtu.be/ScI6viNm5wc)  
+- Informe: [Markdown del informe](Informe.md)
 
 ---
 
